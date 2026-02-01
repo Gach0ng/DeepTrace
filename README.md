@@ -132,7 +132,7 @@ openpyxl>=3.1.0
 
 ```
 
-
+```
 **注意事项：**
 
 1. **HanLP 模型下载**：HanLP 在第一次运行时会自动下载 `COARSE_ELECTRA_SMALL_ZH` 等模型文件到本地缓存目录。
