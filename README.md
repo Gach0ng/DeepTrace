@@ -1,4 +1,4 @@
-```markdown
+
 # 🦅 DeepTrace | 情报线索分析系统
 
 **DeepTrace** 是一个基于 **Streamlit** 构建的轻量级情报线索分析与可视化平台。系统集成了 **HanLP** 自然语言处理能力，能够自动从非结构化文本（如邮件、Excel 记录）中提取人名、地名、机构名及联系方式，并基于力导向图（Force-Directed Graph）构建动态关联网络，帮助分析人员快速发现线索背后的隐藏关系。
@@ -30,17 +30,20 @@
 
 ## 🚀 快速开始
 
+
 ### 1. 环境准备
 
 确保您的本地环境已安装 Python 3.8+ 和 PostgreSQL 数据库。
 
 ### 2. 克隆项目
+```
 
 ```bash
 git clone [https://github.com/Gach0ng/DeepTrace.git](https://github.com/Gach0ng/DeepTrace.git)
 cd DeepTrace
 
 ```
+
 
 ### 3. 安装依赖
 
