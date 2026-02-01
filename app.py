@@ -558,4 +558,5 @@ with tab_time:
         st.dataframe(df_clues[['send_time', 'org', 'source_email', 'subject']], use_container_width=True)
 
 with tab_ent:
+
     st.dataframe(df_ents, use_container_width=True)
